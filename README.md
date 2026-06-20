@@ -1,2 +1,1 @@
-# Attrition-Predicition
-AI-Powered Employee Attrition Prediction &amp; Workforce Analytics using Machine Learning, HR Analytics, Predictive Modeling, Risk Segmentation, and Data Visualization with Python.
+Predicting Employee Attrition Risk using Machine Learning and Workforce Analytics to enable data-driven HR decision-making and retention strategies. 🚀📊🤖
